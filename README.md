@@ -1,6 +1,6 @@
-# Magic Dedicated Wallet Google Social Login
+# Magic Dedicated Wallet GitHub Social Login
 
-Please [click here](https://magic.link/docs/authentication/features/social-logins/social-providers/google) for full implementation instructions
+Please [click here](https://magic.link/docs/authentication/login/social-logins/social-providers/github) for full implementation instructions
 
 ## Quickstart
 
